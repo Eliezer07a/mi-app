@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294852030720",
+    "project_id": "focusai-af618",
+    "storage_bucket": "focusai-af618.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294852030720:android:64685dd985d9ee7037c3e5",
+        "android_client_info": {
+          "package_name": "com.example.focus_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwi2aTvntWushaOa6uuUgqCpT80irn-4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
